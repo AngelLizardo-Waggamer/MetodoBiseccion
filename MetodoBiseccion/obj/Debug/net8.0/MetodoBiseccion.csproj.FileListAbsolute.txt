@@ -1,0 +1,14 @@
+C:\Users\PcGamer\Documents\Repositorios\Nube\MetodoBiseccion\MetodoBiseccion\bin\Debug\net8.0\MetodoBiseccion.exe
+C:\Users\PcGamer\Documents\Repositorios\Nube\MetodoBiseccion\MetodoBiseccion\bin\Debug\net8.0\MetodoBiseccion.deps.json
+C:\Users\PcGamer\Documents\Repositorios\Nube\MetodoBiseccion\MetodoBiseccion\bin\Debug\net8.0\MetodoBiseccion.runtimeconfig.json
+C:\Users\PcGamer\Documents\Repositorios\Nube\MetodoBiseccion\MetodoBiseccion\bin\Debug\net8.0\MetodoBiseccion.dll
+C:\Users\PcGamer\Documents\Repositorios\Nube\MetodoBiseccion\MetodoBiseccion\bin\Debug\net8.0\MetodoBiseccion.pdb
+C:\Users\PcGamer\Documents\Repositorios\Nube\MetodoBiseccion\MetodoBiseccion\obj\Debug\net8.0\MetodoBiseccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PcGamer\Documents\Repositorios\Nube\MetodoBiseccion\MetodoBiseccion\obj\Debug\net8.0\MetodoBiseccion.AssemblyInfoInputs.cache
+C:\Users\PcGamer\Documents\Repositorios\Nube\MetodoBiseccion\MetodoBiseccion\obj\Debug\net8.0\MetodoBiseccion.AssemblyInfo.cs
+C:\Users\PcGamer\Documents\Repositorios\Nube\MetodoBiseccion\MetodoBiseccion\obj\Debug\net8.0\MetodoBiseccion.csproj.CoreCompileInputs.cache
+C:\Users\PcGamer\Documents\Repositorios\Nube\MetodoBiseccion\MetodoBiseccion\obj\Debug\net8.0\MetodoBiseccion.dll
+C:\Users\PcGamer\Documents\Repositorios\Nube\MetodoBiseccion\MetodoBiseccion\obj\Debug\net8.0\refint\MetodoBiseccion.dll
+C:\Users\PcGamer\Documents\Repositorios\Nube\MetodoBiseccion\MetodoBiseccion\obj\Debug\net8.0\MetodoBiseccion.pdb
+C:\Users\PcGamer\Documents\Repositorios\Nube\MetodoBiseccion\MetodoBiseccion\obj\Debug\net8.0\MetodoBiseccion.genruntimeconfig.cache
+C:\Users\PcGamer\Documents\Repositorios\Nube\MetodoBiseccion\MetodoBiseccion\obj\Debug\net8.0\ref\MetodoBiseccion.dll
